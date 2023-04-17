@@ -1,0 +1,13 @@
+PATCHES FOR PORTFOLIO WEBSITE
+
+V0.0.0.1
+-----------------------------
+    -HTML
+        -setup basic HTML templating
+        -created the Details and Experience Files
+
+    -README
+        -README file has been included
+
+    -Text 
+        -Patches file has been added to show what work has been done
